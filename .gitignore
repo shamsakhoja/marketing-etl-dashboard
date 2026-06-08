@@ -1,0 +1,23 @@
+.env
+*.csv
+*.xlsx
+*.xls
+*.db
+__pycache__/
+*.pyc
+.DS_Store
+.env
+__pycache__/
+*.pyc
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+
+# Power BI
+*.pbix
+
+# Credentials
+client_secret.json
+google-ads.yaml
