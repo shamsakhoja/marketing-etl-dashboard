@@ -219,12 +219,13 @@ project/
 * Interactive Dash Analytics Dashboard
 * Cloud Deployment via Render
 
-Note: Raw data files were intentionally excluded from the GitHub repository because they contain institutional marketing and lead-generation data. All ETL logic, database schema documentation, architecture diagrams, dashboard code, and deployment artifacts have been included to demonstrate the complete solution while maintaining data privacy and security.
 ---
 
 ## Author
 
 **Shamsa Khoja**
-Master of Science in Business Analytics
-University of Louisville
+| Master of Science in Business Analytics
+| University of Louisville
+
+**Note:** Raw data files were intentionally excluded from the GitHub repository because they contain institutional marketing and lead-generation data. All ETL logic, database schema documentation, architecture diagrams, dashboard code, and deployment artifacts have been included to demonstrate the complete solution while maintaining data privacy and security.
 
